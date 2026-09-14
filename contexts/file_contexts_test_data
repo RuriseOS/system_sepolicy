@@ -945,6 +945,8 @@
 /data/rollback/999/test/test.apex                                 staging_data_file
 /data/fonts/files                                                 font_data_file
 /data/fonts/files/test                                            font_data_file
+/data/fonts/custom/files                                          font_data_file
+/data/fonts/custom/files/test                                     font_data_file
 /data/misc_ce                                                     system_userdir_file
 /data/misc_de                                                     system_userdir_file
 /data/system_ce                                                   system_userdir_file
